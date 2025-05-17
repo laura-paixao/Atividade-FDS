@@ -7,6 +7,10 @@ h2, h4 {
     text-align: center; font-size: 21px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h3 {
+    font-size: 21px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 ul, li {
     margin-bottom: 50px;
 }
